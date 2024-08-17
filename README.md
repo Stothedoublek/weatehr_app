@@ -16,6 +16,13 @@ Fetches weather information from an API and displays it in the console.
 User Interaction: 
 Allows users to input a city name and retrieves weather forecasts.
 
+Example:
+User: Enter a city(e.g.: Birgunj)
+You: (User inputs "Tokyo")
+Output:
+
 ![q2](https://github.com/user-attachments/assets/91e3cb3d-a895-409e-b299-59a70d96a8fa)
 ![q2 1](https://github.com/user-attachments/assets/c487528e-d281-4bc6-aaf2-78c76fe62b04)
 ![q2 2](https://github.com/user-attachments/assets/dff28610-e2ad-4ef9-8ee2-a8c3df761116)
+
+
