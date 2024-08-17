@@ -18,7 +18,7 @@ Allows users to input a city name and retrieves weather forecasts.
 
 Example:
 User: Enter a city(e.g.: Birgunj)
-You: (User inputs "Tokyo")
+You: (User inputs "Birgunj")
 Output:
 
 ![q2](https://github.com/user-attachments/assets/91e3cb3d-a895-409e-b299-59a70d96a8fa)
